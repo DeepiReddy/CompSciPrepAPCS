@@ -1,4 +1,4 @@
-//1. This program creates an array with 10 names
+//1. Creates an array with 10 names
 //2. Splits the first names into one array and the last names into another
 //3. Puts the arrays together formatted "firstName lastName"
 public class ArraySplit
