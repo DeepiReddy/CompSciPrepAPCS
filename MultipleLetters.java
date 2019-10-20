@@ -1,5 +1,10 @@
 //1. Prints "Enter a name" and gets user input
 //2. Prints each letter in the name, name.length times
+//Examples:
+//Input: Ravi
+//Output: RRRRaaaavvvviiii
+//Input: Deepti
+//Output: DDDDDDeeeeeeeeeeeeppppppttttttiiiiii
 import java.util.Scanner;
 public class MultipleLetters
 {
@@ -20,5 +25,3 @@ public class MultipleLetters
       System.out.println(altName);
    }
 }
-
-// make sure to add few output examples so people know what to expect when they read your code. 
