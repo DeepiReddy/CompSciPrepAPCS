@@ -20,3 +20,5 @@ public class MultipleLetters
       System.out.println(altName);
    }
 }
+
+// make sure to add few output examples so people know what to expect when they read your code. 
